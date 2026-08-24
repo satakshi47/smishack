@@ -27,7 +27,7 @@ function AppLayout({ children }) {
           <button onClick={() => setSidebarOpen(true)}>
             <Menu className="w-5 h-5 text-slate-200" />
           </button>
-          <span className="font-semibold text-slate-100 text-sm">SMIS</span>
+          <span className="font-semibold text-slate-100 text-sm">Nirikshan Setu</span>
         </div>
         <Topbar />
         {children}

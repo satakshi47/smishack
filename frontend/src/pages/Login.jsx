@@ -33,7 +33,7 @@ export default function Login() {
           <div className="w-12 h-12 rounded-xl bg-blue-600 flex items-center justify-center mb-3">
             <ShieldCheck className="w-6 h-6 text-white" />
           </div>
-          <h1 className="text-lg font-semibold text-slate-100">SMIS Login</h1>
+          <h1 className="text-lg font-semibold text-slate-100">Nirikshan Setu Login</h1>
           <p className="text-xs text-slate-400 text-center mt-1">
             Smart Monitoring &amp; Inspection System
           </p>

@@ -57,7 +57,7 @@ export default function Sidebar({ isOpen, onClose }) {
               <ShieldCheck className="w-5 h-5 text-white" />
             </div>
             <div>
-              <p className="text-white font-semibold leading-tight">SMIS</p>
+              <p className="text-white font-semibold leading-tight">Nirikshan Setu</p>
               <p className="text-[11px] text-slate-400 leading-tight">
                 Smart Monitoring &amp; Inspection System
               </p>

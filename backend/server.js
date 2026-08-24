@@ -161,5 +161,5 @@ app.get("/api/inspectors", (req, res) => {
 
 const PORT = process.env.PORT || 4000;
 server.listen(PORT, () => {
-  console.log(`SMIS backend running on http://localhost:${PORT}`);
+  console.log(`Nirikshan Setu backend running on http://localhost:${PORT}`);
 });
